@@ -12,5 +12,7 @@ General Topics for python3 Concepts:
 2.https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747
 3.https://www.geeksforgeeks.org/mutable-vs-immutable-objects-in-python/
 4.https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonDecorators.html
-
+5.https://docs.python.org/2/reference/datamodel.html?highlight=__slots__#slots
+6.https://stackoverflow.com/questions/472000/usage-of-slots
+7.https://discuss.python.org/t/immutability-in-python-is-really-hard/2536
 
