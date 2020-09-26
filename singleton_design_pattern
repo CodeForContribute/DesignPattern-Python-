@@ -15,4 +15,6 @@ General Topics for python3 Concepts:
 5.https://docs.python.org/2/reference/datamodel.html?highlight=__slots__#slots
 6.https://stackoverflow.com/questions/472000/usage-of-slots
 7.https://discuss.python.org/t/immutability-in-python-is-really-hard/2536
+8.https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented
+9.https://stackoverflow.com/questions/3949310/how-is-set-implemented
 
