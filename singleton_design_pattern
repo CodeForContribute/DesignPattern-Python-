@@ -1,4 +1,4 @@
-"""
+
 links for design pattern material in python3
 1.https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python
 2.https://python-patterns.guide/gang-of-four/singleton/
@@ -13,4 +13,4 @@ General Topics for python3 Concepts:
 3.https://www.geeksforgeeks.org/mutable-vs-immutable-objects-in-python/
 4.https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonDecorators.html
 
-"""
+
